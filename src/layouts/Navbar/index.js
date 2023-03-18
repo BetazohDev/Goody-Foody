@@ -52,6 +52,22 @@ export default function Navbar() {
 
         })
 
+        tempNavigation.push({
+            type: navType.item,
+            name: "Add Recipe",
+            href: '/recipe/random',
+            current: false,
+
+        })
+
+        tempNavigation.push({
+            type: navType.item,
+            name: "My Profile",
+            href: '/recipe/random',
+            current: false,
+
+        })
+
         setNavItems(tempNavigation)
 
         // console.log({ nav: navItems })

@@ -63,7 +63,15 @@ export default function Navbar() {
         tempNavigation.push({
             type: navType.item,
             name: "My Profile",
-            href: '/recipe/random',
+            href: '/public/Profile.html',
+            current: false,
+
+        })
+
+        tempNavigation.push({
+            type: navType.item,
+            name: "Login",
+            href: '/public/login.html',
             current: false,
 
         })

@@ -16,17 +16,18 @@
 
 body {
   font-family: arial, helvetica;
+  background-color: #FBEEC2;
 }
 
 h3 {
   font-size: 5em;
   text-align: center;
-  color: #fff;
+  color: #61A6AB;
   font-weight: 700;
 }
 
 #section1 {
-  color: #fff;
+  color: #000;
 }
 
 .fp-section {
@@ -35,7 +36,7 @@ h3 {
 
 button {
   padding: 0.93em 1.87em;
-  background: #35495e;
+  background: #61A6AB;
   border-radius: 5px;
   border-color: transparent;
   display: block;
@@ -54,7 +55,7 @@ button {
   background: #35495e;
   border-radius: 5px;
   border: 0;
-  color: #fff;
+  color: #61A6AB;
   margin: 7px;
   font-size: 15px;
   cursor: pointer;
@@ -69,7 +70,7 @@ button {
 
 /* footer section*/
 .footer_section {
-  background-color: #222831;
+  background-color: #61A6AB;
   color: #ffffff;
   padding: 75px 0 40px 0;
   text-align: center;
@@ -87,7 +88,7 @@ button {
 }
 
 .footer_section p {
-  color: #dbdbdb;
+  color: #000;
 }
 
 .footer_section .footer-col {
@@ -106,7 +107,7 @@ button {
 
 .footer_section .footer_contact .contact_link_box a {
   margin: 5px 0;
-  color: #ffffff;
+  color: #000;
 }
 
 .footer_section .footer_contact .contact_link_box a i {
@@ -114,7 +115,7 @@ button {
 }
 
 .footer_section .footer_contact .contact_link_box a:hover {
-  color: #ffbe33;
+  color: #C1B398;
 }
 
 .footer_section .footer-logo {
@@ -157,7 +158,7 @@ button {
 }
 
 .footer_section .footer_social a:hover {
-  color: #ffbe33;
+  color: #C1B398;
 }
 
 .footer_section .footer-info {
@@ -166,7 +167,7 @@ button {
 }
 
 .footer_section .footer-info p {
-  color: #ffffff;
+  color: #000;
   margin: 0;
 }
 

@@ -20,13 +20,13 @@ const Index = () => {
                                         <span> Location </span>
                                     </a>
 
-                                    <a href="tel:+11234567890" className='flex flex-row gap-1 flex-nowrap justify-center'>
+                                    <a href="tel:+52 4492645580" className='flex flex-row gap-1 flex-nowrap justify-center'>
                                         <PhoneIcon className='w-6'></PhoneIcon>
-                                        <span> +1 1234567890 </span>
+                                        <span> +52 4492645580 </span>
                                     </a>
-                                    <a href="mailto:jinendrajain6810@gmail.com" className='flex flex-row gap-1 flex-nowrap justify-center'>
+                                    <a href="mailto:st2474@utr.edu.mx" className='flex flex-row gap-1 flex-nowrap justify-center'>
                                         <EnvelopeIcon className='w-6' />
-                                        <span> jinendrajain6810@gmail.com </span>
+                                        <span> st2474@utr.edu.mx </span>
                                     </a>
 
                                 </div>
@@ -35,18 +35,18 @@ const Index = () => {
                         <div className="lg:w-1/4 w-full footer-col">
                             <div className="footer_detail">
                                 <a href="" className="footer-logo">
-                                    FoodWaves
+                                    GoodyFoody
                                 </a>
                                 <p>
                                     Recipe has no soul.<br /> You, as the cook, must bring soul to the recipe.
                                 </p>
                                 <div className="flex justify-center gap-1 mt-4">
 
-                                    <SocialIcon className='hover:opacity-70' url="https://github.com/itsjinendrajain" network="twitter" />
-                                    <SocialIcon className='hover:opacity-70' url="https://github.com/itsjinendrajain" network="instagram" />
-                                    <SocialIcon className='hover:opacity-70' url="https://github.com/itsjinendrajain" network="facebook" />
-                                    <SocialIcon className='hover:opacity-70' url="https://github.com/itsjinendrajain" network="youtube" />
-                                    <SocialIcon className='hover:opacity-70' url="https://www.linkedin.com/in/itsjinendrajain/" network="linkedin" />
+                                    <SocialIcon className='hover:opacity-70' url="https://github.com/daniels99s" network="twitter" />
+                                    <SocialIcon className='hover:opacity-70' url="https://github.com/daniels99s" network="instagram" />
+                                    <SocialIcon className='hover:opacity-70' url="https://github.com/daniels99s" network="facebook" />
+                                    <SocialIcon className='hover:opacity-70' url="https://github.com/daniels99s" network="youtube" />
+                                    <SocialIcon className='hover:opacity-70' url="https://github.com/daniels99s" network="linkedin" />
                                  
 
 
@@ -62,21 +62,7 @@ const Index = () => {
                             </p>
                         </div>
                     </div>
-                    <div className="footer-info">
-                        <p>
-                            &copy;
-                            <span id="displayYear"></span> All Rights Reserved By &nbsp;
-                            <a href="https://github.com/itsjinendrajain" className='!text-yellow-600 font-medium text-lg hover:!text-yellow-300'>Jinendra Jain</a>
-                            <br /><br />
-                            &copy; <span id="displayYear"></span> Distributed By &nbsp;
-                            
-                            <a 
-                            href="https://github.com/itsjinendrajain"
-                                className='!text-yellow-600 font-medium text-lg hover:!text-yellow-300' 
-                            target="_blank">Jinendra Jain</a>
-                        </p>
-
-                    </div>
+                    
                 </div>
             </footer>
         </Fragment>

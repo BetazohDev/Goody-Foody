@@ -42,11 +42,11 @@ const Index = () => {
                                 </p>
                                 <div className="flex justify-center gap-1 mt-4">
 
-                                    <SocialIcon className='hover:opacity-70' url="https://github.com/daniels99s" network="twitter" />
-                                    <SocialIcon className='hover:opacity-70' url="https://github.com/daniels99s" network="instagram" />
-                                    <SocialIcon className='hover:opacity-70' url="https://github.com/daniels99s" network="facebook" />
-                                    <SocialIcon className='hover:opacity-70' url="https://github.com/daniels99s" network="youtube" />
-                                    <SocialIcon className='hover:opacity-70' url="https://github.com/daniels99s" network="linkedin" />
+                                    <SocialIcon className='hover:opacity-70' url="https://twitter.com/UTR_BIS" network="twitter" />
+                                    <SocialIcon className='hover:opacity-70' url="https://www.instagram.com/proudlyutr/" />
+                                    <SocialIcon className='hover:opacity-70' url="https://www.facebook.com/UTRBIS" network="facebook" />
+                                    <SocialIcon className='hover:opacity-70' url="https://www.youtube.com/@universidadtecnologicaelre627" network="youtube" />
+                                    <SocialIcon className='hover:opacity-70' url="https://www.linkedin.com/school/utrbisoficial/" />
                                  
 
 

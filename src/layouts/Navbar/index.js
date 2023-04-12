@@ -94,7 +94,7 @@ export default function Navbar() {
                         <div className="flex items-center justify-between">
                             <Link className="flex-none text-xl font-semibold dark:text-white" to="/">
                                 <div className="flex items-center">
-                                    <img src="/images/FoodWavesNavBar.png " 
+                                    <img src="/images/GoodyFoodyLogo.png " 
                                         className="mr-3 lg:block h-8 w-auto " 
                                     alt="FoodWaves Logo" />
                                     
